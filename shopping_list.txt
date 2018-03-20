@@ -2,4 +2,3 @@ pc
 iphone
 keybord
 mouse
-watch
