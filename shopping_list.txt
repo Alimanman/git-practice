@@ -1,4 +1,4 @@
 pc
 iphone
 keybord
-mouse
+mouse2
